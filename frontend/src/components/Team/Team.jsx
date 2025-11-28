@@ -2,10 +2,10 @@ import React from "react";
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { RxCross2 } from "react-icons/rx";
 
-import Img1 from "../../assets/team/person-f-4.webp";
-import Img2 from "../../assets/team/person-f-8.webp";
-import Img3 from "../../assets/team/person-m-6.webp";
-import Img4 from "../../assets/team/person-m-7.webp";
+import Img1 from "../../assets/Team/person-f-4.webp";
+import Img2 from "../../assets/Team/person-f-8.webp";
+import Img3 from "../../assets/Team/person-m-6.webp";
+import Img4 from "../../assets/Team/person-m-7.webp";
 import Sectiontitle from "../../Pages/Sectiontitle";
 
 const Team = () => {
